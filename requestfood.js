@@ -30,6 +30,8 @@ var address = getInputVal('address');
 var pincode = getInputVal('pincode');
 var message = getInputVal('message');
 
+
+
   // Save message
   saveMessage(name,email,phone,address,pincode,message);
 
